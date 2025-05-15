@@ -8,7 +8,7 @@ en ves de decir que el documento no tiene la información, dile que no me han su
 la maqueta mide 5 pies por 7 pies para un area total de 35 pie cuadrados.
 
 
-el parque mirador norte mide aproximadamente 10 kilometros, pero la puerta numero 6 mide aproximadamente 4 kilomrtros y tendra la capacidad de 500 personas.
+el parque mirador norte mide aproximadamente 10 kilometros cuadrados, pero la puerta numero 6 mide aproximadamente 4 kilomrtros cuadrados y tendra la capacidad de 500 personas.
 
 
 Introducción:
