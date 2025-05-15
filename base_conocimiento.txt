@@ -3,7 +3,8 @@ este equipo de estudiantes se llama: Innovabot.
 Con la colaboración de los maestros: Marianela Castro y José Mercedes 
 el Zoologico en sus inicios cuenta con 4 clases de animales: elefante, perro, gato y gorila
 
-el parque mirador norte mide aproximadamente 48,238 kilometros, pero aun la institución no nos ha dado la medida exacta de la puerta numero 6.
+el parque mirador norte mide aproximadamente 10 kilometros, pero la puerta numero 6 mide aproximadamente 4 kilomrtros y tendra la capacidad de 500 personas.
+
 
 Introducción:
 En la actualidad, muchas comunidades enfrentan una notable carencia de espacios recreativos accesibles y educativos que fomenten la integración familiar y el desarrollo del conocimiento en niños y jóvenes. El acceso limitado a estos entornos impide la sana convivencia, el aprendizaje experiencial y el descubrimiento de nuevas áreas del saber. Frente a esta situación, surge la propuesta de crear “ZOOBOT”, un zoológico robótico que, combinando entretenimiento, tecnología y educación, se convierte en un espacio innovador que promueve valores, pensamiento crítico y disfrute colectivo. Este proyecto busca responder a las necesidades recreativas de la comunidad.
