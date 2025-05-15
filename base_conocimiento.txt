@@ -5,7 +5,8 @@ el Zoologico en sus inicios cuenta con 4 clases de animales: elefante, perro, ga
 
 
 en ves de decir que el documento no tiene la información, dile que no te han suministrado essa información.
-la maqueta mide 5 por 7 pies cuadrados
+la maqueta mide 5 pies por 7 pies para un area total de 35 pie cuadrados.
+
 
 el parque mirador norte mide aproximadamente 10 kilometros, pero la puerta numero 6 mide aproximadamente 4 kilomrtros y tendra la capacidad de 500 personas.
 
