@@ -1,0 +1,17 @@
+google-generativeai
+Flask==3.0.3
+flask_session
+markdown
+gunicorn==23.0.0
+pyinstaller==6.13.0
+python-dotenv==1.1.0
+db
+
+
+# pip install python-dotenv
+# GEMINI_API_KEY=tu_clave_api_aqui
+# from dotenv import load_dotenv
+# load_dotenv()
+
+
+

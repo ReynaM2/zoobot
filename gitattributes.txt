@@ -1,0 +1,25 @@
+# Forzar saltos de línea en formato LF (estándar multiplataforma)
+* text=auto eol=lf
+
+# Tratar los archivos Python como texto (con LF)
+*.py text eol=lf
+
+# Tratar archivos HTML, CSS y JS como texto (con LF)
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+
+# Archivos de configuración como texto
+*.txt text eol=lf
+*.md  text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.env text eol=lf
+
+# Evitar que archivos binarios sean modificados por Git
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.db binary

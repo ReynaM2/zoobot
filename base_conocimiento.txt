@@ -1,0 +1,87 @@
+Eres Zuri, el asistente de Zoobot, un zoológico robótico, un proyecto de los estudiantes Alejandro, Josthin y rosmary, de tercero de primer ciclo de secundaria del POLITECNICO JUAN DE LA CRUZ ABAD.
+este equipo de estudiantes se llama: Innovabot.
+Con la colaboración de los maestros: Marianela Castro y José Mercedes 
+
+Introducción:
+En la actualidad, muchas comunidades enfrentan una notable carencia de espacios recreativos accesibles y educativos que fomenten la integración familiar y el desarrollo del conocimiento en niños y jóvenes. El acceso limitado a estos entornos impide la sana convivencia, el aprendizaje experiencial y el descubrimiento de nuevas áreas del saber. Frente a esta situación, surge la propuesta de crear “ZOOBOT”, un zoológico robótico que, combinando entretenimiento, tecnología y educación, se convierte en un espacio innovador que promueve valores, pensamiento crítico y disfrute colectivo. Este proyecto busca responder a las necesidades recreativas de la comunidad.
+
+Justificación:
+En nuestra comunidad, uno de los principales retos que enfrentamos es la limitada oferta de espacios recreativos accesibles para las familias. Las pocas opciones disponibles suelen estar a gran distancia, lo cual representa una barrera significativa, especialmente para aquellas familias que no cuentan con medios de transporte propios.
+La creación de un zoológico, en particular uno innovador como el "ZOOBOT", ofrecería un espacio único donde las familias puedan reunirse, convivir y disfrutar de un entorno educativo y entretenido. Este tipo de espacio promueve el aprendizaje interactivo, despierta la curiosidad de niños y adultos por la ciencia y la tecnología, y fortalece los lazos familiares a través de actividades compartidas.
+
+Planteamiento del Problema:
+En nuestra comunidad no existen suficientes espacios recreativos de calidad, accesibles ni cercanos, lo que limita considerablemente las oportunidades de esparcimiento familiar y aprendizaje activo para niños y jóvenes. Esta situación genera una desconexión con el medio ambiente, escaso interés por la ciencia y la tecnología, y falta de integración familiar y social. ¿Cómo puede un proyecto educativo y tecnológico, como un zoológico robótico, contribuir a resolver esta necesidad y promover la convivencia, el aprendizaje y el desarrollo integral de los miembros de la comunidad?
+Objetivo General:
+Implementar un zoológico robótico interactivo como espacio recreativo, educativo y tecnológico para fortalecer la convivencia familiar, el aprendizaje interdisciplinario y el desarrollo de conciencia ambiental en la comunidad.
+
+
+Objetivos Específicos:
+Ofrecer un espacio de recreación accesible para las familias de la comunidad, promoviendo la integración social y el disfrute colectivo.
+Despertar el interés por la conservación del medio ambiente y la fauna, mediante actividades informativas y lúdicas que promuevan valores ecológicos.
+Fomentar el aprendizaje científico y tecnológico a través de experiencias educativas interactivas, adaptadas a diferentes niveles escolares.
+Descripción del Proyecto:
+El zoológico robótico es un proyecto innovador que combina la robótica con la naturaleza. Consiste en la creación de un espacio educativo donde los animales son representados mediante robots, los cuales simulan sus comportamientos, movimientos y sonidos naturales. 
+Área Curricular:
+El desarrollo del proyecto ZOOBOT se enmarca dentro del área curricular de Ciencias Naturales, en específico, el proyecto se relaciona con la unidad didáctica de Ecología, la cual aborda las interacciones entre los organismos y su entorno, así como la importancia de conservar los ecosistemas para el equilibrio natural.
+Dentro de esta unidad, se trabaja el contenido de los Reinos de la naturaleza (Animal, Vegetal, etc.) permitiendo a los estudiantes:
+Comprender las características principales de cada reino y reflexionar sobre la importancia de la preservación ambiental.
+
+Áreas Curriculares que intervienen el Proyecto:
+1.	Ciencias Naturales: Comprensión del reino animal.
+Clasificación, hábitats, anatomía, evolución y comportamiento animal.
+2.Ingenieria: construccion mecanica para ensamblar las piezas.
+3.Matematicas: Cálculo de estadísticas de especies, gráficas de crecimiento poblacional., medidas de area territorial.
+4.Tecnología: Uso de herramientas tecnológicas para estudiar o representar animales.
+5.Educación Artística: Manualidades, maquetas y pintura. 
+
+Metodología:
+La metodología utilizada es aprendizaje basada en proyectos, promoviendo la construcción del conocimiento a través de experiencias reales y significativas. Se trabajo en grupos colaborativos donde se estimula la creatividad, la indagación científica y el uso de herramientas tecnológicas.
+Materiales y Recursos:
+Kit de Robótica Lego ev3, Classroom Ev3, Tablet, Laptops, Cartón, Ega, Cables, Foami, Pincel, Tijeras, Accesorios decorativos, Lápiz de color, Cinta pegante, Bocinas, Papel construcción, Pintura, Silicón y Papelógrafo.
+
+Procedimientos:
+Planeación del proyecto: definición de objetivos, recursos y cronograma.
+Diseño de los robots animales: bocetos, selección de materiales y componentes.
+Construcción y programación: armado de figuras robóticas y codificación de sus movimientos.
+Montaje del zoológico: organización de los espacios temáticos.
+Presentación en feria: recorrido guiado y actividades con las familias y la escuela.
+
+Técnicas:
+Aprendizaje basado en proyectos (ABP)
+Trabajo colaborativo
+Observación y experimentación
+Investigación guiada
+
+Herramientas:
+Kits de robótica lego Ev3.
+Herramientas manuales básicas.
+Material reciclado (cartón).
+Software de programación visual (Classroom ev3) 
+
+Resultados:
+Como parte de la fase exploratoria del proyecto ZOO BOT, se ha realizado una visita y observación directa del área correspondiente a la Puerta No. 6 del Parque Mirador Norte, con el objetivo de evaluar su potencial como espacio físico para instalar un zoológico robótico educativo y recreativo, que funcione como atractivo familiar, punto de aprendizaje y zona de esparcimiento comunitario.
+Ubicación accesible: La Puerta No. 6 cuenta con fácil acceso peatonal y vehicular, y su cercanía a sectores residenciales garantiza la afluencia de visitantes frecuentes.
+
+Espacio disponible: Se identificó una zona amplia y abierta, actualmente subutilizada, que podría adaptarse para la instalación del proyecto sin afectar áreas ecológicas sensibles del parque.
+Condiciones ambientales adecuadas: El lugar cuenta con vegetación, sombra natural y terreno nivelado, lo que permite montar estructuras ligeras, caminos guiados y zonas de observación sin necesidad de grandes intervenciones al ecosistema.
+Poca oferta recreativa estructurada: Aunque el parque es visitado con frecuencia, carece de actividades fijas o interactivas dirigidas a niños y jóvenes, por lo que el zoológico robótico podría llenar un vacío existente en la oferta educativa-recreativa del espacio.
+Conclusiones:
+La implementación de “ZOOBOT” representa una respuesta concreta a la necesidad de crear espacios educativos y recreativos accesibles en la comunidad. Este proyecto no solo proporciona un ambiente atractivo para la convivencia familiar, sino que también estimula el desarrollo del pensamiento científico, tecnológico y ecológico en niños y jóvenes. Al ofrecer una alternativa sostenible e inclusiva, el zoológico robótico se posiciona como un modelo de innovación educativa con impacto social, cultural y ambiental positivo.
+El área evaluada en la Puerta No. 6 del Parque Mirador Norte cumple con los criterios básicos de accesibilidad, espacio y condiciones ambientales para implementar un proyecto como ZOO BOT.
+La integración de un zoológico robótico no implicaría una alteración del ecosistema natural, ya que las estructuras son ligeras, temporales y educativas, respetando los principios de sostenibilidad.
+Este proyecto aportaría valor al parque, convirtiéndolo en un referente de innovación educativa y recreación sostenible en la zona norte de Santo Domingo.
+Involucrar a instituciones educativas locales para aprovechar el espacio como recurso pedagógico permanente.
+Presentación del anteproyecto detallado (maqueta, planos, cronogramas y presupuestos).
+Solicitud formal al ministerio de medio ambiente para autorización de estudio técnico. 
+Realizar un levantamiento topográfico del área seleccionada.
+Estudio de impacto ecológico con asesoría técnica.
+
+
+Dinamizador Tic :     José Mercedes
+Maestra integradora :  Marianela Castro
+Representantes de Áreas Académicas :
+Lengua Española      Miozoti Linares
+Matemáticas              Frank Suero
+Ciencias Sociales       Aridia Ciriaco
+Ciencias Naturales     Dany Santana
+

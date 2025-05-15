@@ -1,0 +1,13 @@
+__pycache__/
+dist/
+flask session/
+*.db
+*.spec
+*.log
+dist/
+build/
+*.exe
+*.sqlite3
+*.swp
+
+requiremen.txt
